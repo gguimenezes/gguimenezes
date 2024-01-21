@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @gguimenezes
+- 👀 I’m interested in embedded systems 
+- 🌱 I’m currently learning C, and C++
+- 💞️ I’m looking to collaborate on projects with codes and electronics
+- 📫 Look for "Nortaudio" on Instagram :)
+- ⚡ I'm musician and maker
